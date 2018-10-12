@@ -1,0 +1,11 @@
+# .gitignore
+
+.pub
+
+.vscode
+node_modules
+
+.loger
+/config.yaml
+/.packages
+/pubspec.lock
